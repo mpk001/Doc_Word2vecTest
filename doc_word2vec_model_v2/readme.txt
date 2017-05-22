@@ -1,0 +1,1 @@
+该路径下存放训练好的Doc2vec和Word2Vec模型
