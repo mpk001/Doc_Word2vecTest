@@ -3,4 +3,4 @@
 
 src\com\ckcest\base下面的代码是Java版本的word2vec和doc2vec； 
 
-src\com\ckcest\doc_word2vec\More2VecTest.java里面分两步进行，第一步训练word2vec和doc2vec模型并保存在doc_word2vec_model_v2路径下，输入是分词只有的语料库，放在file文件夹下，由于文件太大，所以这里file和doc_word2vec_model_v2文件夹下的内容没有放上来；第二步进行词的相似度计算和句子的相似度计算，具体示例可以查看我的博客（http://blog.csdn.net/mpk_no1/article/details/72510677）
+src\com\ckcest\doc_word2vec\More2VecTest.java里面分两步进行，第一步训练word2vec和doc2vec模型并保存在doc_word2vec_model_v2路径下，输入是分词只有的语料库，放在file文件夹下，由于文件太大，所以这里file和doc_word2vec_model_v2文件夹下的内容没有放上来；第二步进行词的相似度计算和句子的相似度计算，具体示例可以查看我的博客http://blog.csdn.net/mpk_no1/article/details/72510677
